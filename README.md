@@ -76,5 +76,5 @@
 
 ## 📊 GitHub Stats
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=serelee08&show_icons=true&theme=vue-dark&hide_border=true" />
+  <img src="https://github-readme-stats.vercel.app/api?username=serelee08&show_icons=true&theme=vue-dark&hide_border=false" alt="serelee08's stats" />
 </p>
