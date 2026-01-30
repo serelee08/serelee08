@@ -10,17 +10,18 @@
 ## 🙋🏻‍♀️ About Me
 * 🧠 **Vision**: AI 기술을 백엔드 생태계에 유연하게 녹여내어 실질적인 비즈니스 가치를 창출하는 엔지니어 **이지애**입니다.
 
-* 🎓 **Current Learning & Certification**: 
-  - **IBM AI Engineering Professional** 과정 이수 중 (2026.03 수료 예정)
-  - **정보처리기능사** 자격 취득 준비 중 (CS 기초 역량 강화 및 자기 계발)
-  - **LangChain** 기반 RAG 시스템 구축 및 **Transformer** 모델 파인튜닝 학습
+* 🎓 **Education & Current Learning**:
+  - **클라우드 기반 AI 풀스택 개발자 과정 수료** (한국 ICT 인재개발원, 7개월 풀타임) [2025.03 - 2025.09]
+  - **IBM AI Engineering Professional** 과정 이수 중 (Coursera, 2026.03 수료 예정)
+  - **정보처리기능사** 자격 취득 준비 중 (기초 역량 강화 및 자기계발)
+  - **LangChain** 기반 RAG 시스템 구축 및 **Transformer** 모델 파인튜닝 심화 학습
 
 * 🏆 **Achievement**: 
   - **프로젝트 우수상** (AI 기반 클라우드 접근 통제 플랫폼 'EVLink')
   - **특모범상 (7개월 풀타임 과정 출석률 100% 달성)**: 성실함을 바탕으로 끝까지 완수하는 개발자
 
 * 🎯 **Specialty**:
-* 🧠 **AI Integration**: AI 모델(NLP/RAG)을 백엔드 비즈니스 로직에 유연하게 통합하는 역량 
+* 🧠 **AI Integration**: AI 모델(NLP)을 백엔드 비즈니스 로직에 유연하게 통합하는 역량 
 * 🏗️ **System Architecture**: Spring Boot & Django 서버 간 통신 및 연동 설계  
 * 🔐 **Secure & Scalable**: OAuth2/JWT 기반 보안 설계 및 데이터 중심의 쿼리 최적화 실무 
   
