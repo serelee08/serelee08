@@ -8,8 +8,9 @@
 </p>
 
 ## 🙋🏻‍♀️ About Me
-* 🧠 **Vision**: AI 기술을 백엔드 생태계에 유연하게 녹여내여 실질적인 비즈니스 가치를 창출하는 엔지니어 **이지애**입니다.
-
+* 🧠 **Vision**: 데이터 기반 AI 모델을 안정적인 백엔드 아키텍처로 구현하여 서비스 가치를 창출하는 엔지니어 **이지애** 입니다
+                  *Bridging the gap between AI possibilities and robust Backend architecture.*
+  
 * 🎓 **Education & Current Learning**:
   - **클라우드 기반 AI 풀스택 개발자 과정 수료** (한국 ICT 인재개발원, 7개월 풀타임)
   - **IBM AI Engineering Professional** 과정 이수 중 (Coursera, 2026.03 수료 예정)
