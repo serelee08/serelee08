@@ -20,9 +20,9 @@
   - **특모범상 (7개월 풀타임 과정 출석률 100% 달성)**: 성실함을 바탕으로 끝까지 완수하는 개발자
 
 * 🎯 **Specialty**:
-* [cite_start]🧠 **AI Integration**: AI 모델(NLP/RAG)을 백엔드 비즈니스 로직에 유연하게 통합하는 역량 [cite: 17, 18, 36]
-* [cite_start]🏗️ **System Architecture**: Spring Boot & Django 서버 간 통신 및 연동 설계  [cite: 15, 17, 47]
-* [cite_start]🔐 **Secure & Scalable**: OAuth2/JWT 기반 보안 설계 및 데이터 중심의 쿼리 최적화 실무 [cite: 15, 21, 25, 48]
+* 🧠 **AI Integration**: AI 모델(NLP/RAG)을 백엔드 비즈니스 로직에 유연하게 통합하는 역량 
+* 🏗️ **System Architecture**: Spring Boot & Django 서버 간 통신 및 연동 설계  
+* 🔐 **Secure & Scalable**: OAuth2/JWT 기반 보안 설계 및 데이터 중심의 쿼리 최적화 실무 
   
   
 * 📧 **Contact**: serelee08@gmail.com
@@ -56,7 +56,7 @@
   <img src="https://img.shields.io/badge/Docker-2496ED?style=flat-square&logo=docker&logoColor=white"/>
 </p>
 
-### 🤖 AI & Data Engineering
+### 🤖 AI & Data 
 <p align="left">
   <img src="https://img.shields.io/badge/Gemini_API-8E75B2?style=flat-square&logo=googlegemini&logoColor=white"/>
   <img src="https://img.shields.io/badge/NLP-RNN/LSTM-blue?style=flat-square"/>
@@ -67,9 +67,9 @@
 
 ## 🏆 Featured Project
 ### ⚡ [EVLink: AI 기반 전기차 충전 공유 플랫폼](https://github.com/serelee08/evlink-ai-platform)
-* [cite_start]**성과**: 한국 ICT 인재개발원 **프로젝트 우수상** 수상 [cite: 44, 45]
-* [cite_start]**핵심 역할**: Spring Boot 기반 백엔드 아키텍처 설계 및 OAuth2 + JWT 보안 인증 시스템 구축 [cite: 47, 48]
-* [cite_start]**AI 통합**: Django와 연동하여 Gemini API 챗봇 및 RNN/LSTM 기반 감성 분석 파이프라인 구현 [cite: 49, 50]
+* **성과**: 한국 ICT 인재개발원 **프로젝트 우수상** 수상
+* **핵심 역할**: Spring Boot 기반 백엔드 아키텍처 설계 및 OAuth2 + JWT 보안 인증 시스템 구축 
+* **AI 통합**: Django와 연동하여 Gemini API 챗봇 및 RNN/LSTM 기반 감성 분석 파이프라인 구현 
 
 ---
 
