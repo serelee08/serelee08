@@ -22,9 +22,9 @@
   - **특모범상 (7개월 풀타임 과정 출석률 100% 달성)**: 성실함을 바탕으로 끝까지 완수하는 개발자
 
 * 🎯 **Specialty**:
-* 🧠 **AI Integration**: AI 모델(NLP)을 백엔드 비즈니스 로직에 유연하게 통합하는 역량 
-* 🏗️ **System Architecture**: Spring Boot & Django 서버 간 통신 및 연동 설계  
-* 🔐 **Secure & Scalable**: OAuth2/JWT 기반 보안 설계 및 데이터 중심의 쿼리 최적화 실무 
+  - 🧠 **AI Integration**: AI 모델(NLP)을 백엔드 비즈니스 로직에 유연하게 통합하는 역량
+  - 🏗️ **System Architecture**: Spring Boot & Django 서버 간 통신 및 연동 설계  
+  - 🔐 **Secure & Scalable**: OAuth2/JWT 기반 보안 설계 및 데이터 중심의 쿼리 최적화 실무 
   
   
 * 📧 **Contact**: serelee08@gmail.com
