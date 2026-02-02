@@ -31,7 +31,7 @@ AI 기능을 실제 서비스에 안정적으로 적용하는 백엔드 시스�
   
   
 * 📧 **Contact**: serelee08@gmail.com
-* 📂 **Portfolio**: [🌐 이지애의 AI 백엔드 엔지니어 포트폴리오 (Click)](https://serelee08.github.io/PortfolioSL/)
+* 📂 **Portfolio**: [🌐 이지애의 백엔드 엔지니어 포트폴리오 (Click)](https://serelee08.github.io/PortfolioSL/)
 ---
 
 ## 🛠 Tech Stack & Tools
