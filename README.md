@@ -1,4 +1,4 @@
-#  🚀 AI-focused Backend Engineer
+#  🚀 Backend Engineer · AI services
 
 <p align="left">
   <img src="https://img.shields.io/badge/Java-007396?style=flat-square&logo=java&logoColor=white"/>
@@ -8,8 +8,11 @@
 </p>
 
 ## 🙋🏻‍♀️ About Me
-* 🧠 **Vision**: 데이터 기반 AI 모델을 안정적인 백엔드 아키텍처로 구현하여 서비스 가치를 창출하는 엔지니어 **이지애** 입니다
-                  *Bridging the gap between AI possibilities and robust Backend architecture.*
+AI 기능을 실제 서비스에 안정적으로 적용하는 백엔드 시스템을 개발해왔습니다. 
+서비스 운영 관점에서의 백엔드 설계와 구현에 강점을 가지고 있는 엔지니어 이지애 입니다.
+
+
+* 🧠 **Vision**: 안정적인 아키텍처로 구현하여 서비스 가치를 창출하며, 문제 해결 경험을 정리하 고 재사용 가능한 지식으로 만드는 데 집중하며 매일 성장 하기 위해 노력하는 **이지애** 입니다.
   
 * 🎓 **Education & Current Learning**:
   - **클라우드 기반 AI 풀스택 개발자 과정 수료** (한국 ICT 인재개발원, 7개월 풀타임)
