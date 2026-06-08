@@ -2,7 +2,7 @@
 [English Version](./README_EN.md) | [한국어 버전](./README.md)
 
 ---
-# 🚀 Backend Engineer · AI Services
+# 🚀 Software Engineer · AI Services
 
 <p align="left">
   <img src="https://img.shields.io/badge/Java-007396?style=flat-square&logo=java&logoColor=white"/>
