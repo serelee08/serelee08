@@ -1,3 +1,7 @@
+# 🌐 Language Switch
+[English Version](./README_EN.md) | [한국어 버전](./README.md)
+
+---
 #  🚀 Backend Engineer · AI services
 
 <p align="left">
