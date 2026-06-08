@@ -1,5 +1,5 @@
 # 🌐 Language Switch
-[English Version](./README_EN.md) | [한국어 버전](./README.md)
+[🇺🇸English Version](./README_EN.md) | [🇰🇷한국어 버전](./README.md)
 
 ---
 #  🚀 Software Engineer · AI services
