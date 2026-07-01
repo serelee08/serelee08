@@ -19,7 +19,7 @@ I am a Backend Engineer dedicated to building robust architectures that seamless
 * 🎓 **Education & Continuous Learning**:
   - **Cloud-Based AI Full-Stack Development Course** (Korea ICT Human Resources Development Institute | 7 Months, Full-time)
   - **IBM AI Engineering Professional Certificate** (Coursera | May 2026 – Present)
-  - **Craftsman Information Processing** Certification (Expected June 2026)
+  - **Programming License** Certification (passed the written exam 2026.06 | practical exam 2026.08)
   - Advanced studies in **LangChain-based RAG architecture** and **Transformer model fine-tuning**
 
 * 🏆 **Achievements**:
